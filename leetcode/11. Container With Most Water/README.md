@@ -1,0 +1,1 @@
+My solution was not optimal and I had to refer to leetcode solution and it seems so obvious however I think I should not have any shame for checking solution as the reason why I am grinding on leetcode in the first place is because I need to learn and there will be many more problems that I expect to not have solutions to.
